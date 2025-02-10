@@ -4,7 +4,7 @@ Ever wanted to know some *random, slightly questionable, and mildly sarcastic* f
 
 This **Fun Fact Generator** serves up spicy, painfully accurate, and totally unnecessary facts about *me truly*. Just click the button and let fate (aka JavaScript) decide what you learn today.  
 
-## **Features That Nobody Asked For 🤺⛳**
+## **Features that Nobody asked for 🤺⛳**
 ⭕ A collection of **hilariously relatable facts** about me  
 ⭕ A button that does *one job*—but does it well!  
 ⭕ A **minimalist aesthetic** because I’m classy like that  
@@ -12,32 +12,21 @@ This **Fun Fact Generator** serves up spicy, painfully accurate, and totally unn
 
 ---
 
-## **👩🏽‍🍳 Tech Behind the Magic 🍳**  
+## **👩🏽‍🍳 Tech behind the magic 🍳**  
 - **HTML** – Because every great app starts somewhere  
 - **CSS** – To make it look somewhat presentable  
 - **JavaScript** – The mastermind behind the randomness  
 
 ---
 
-## **How to Experience My Greatness**  
+## **💁🏽‍♀️ How to experience my Greatness**  
 1. Open `index.html` in your browser.  
 2. Click **"Generate Fun Fact"** (yes, it’s that simple).  
 3. Laugh, cry, or question your life choices as a random fact about me appears.  
 
 ---
 
-## **👷🏽‍♀️ Project Structure (For the Nerds) 🪜**  
-```
-/Fun-Fact-Generator
-│── index.html   # The main event  
-│── styles.css   # A little bit of styling magic  
-│── script.js    # The brains of the operation  
-│── README.md    # The thing you’re reading right now  
-```
-
----
-
-## **⭕ How to Get This Masterpiece on Your Device**  
+## **⭕ Get this masterpiece on your device**  
 1. Clone this **masterpiece** from GitHub:  
    ```sh
    git clone https://github.com/webdevpathiraja/GenAI-101-Pieces-App.git
@@ -46,14 +35,14 @@ This **Fun Fact Generator** serves up spicy, painfully accurate, and totally unn
 
 ---
 
-## **Future Plans (Maybe... Probably Not) 🐦‍🔥**  
+## **Future plans (Maybe... Probably Not) 🐦‍🔥**  
 Add **more fun facts** (because my life is full of them)  
 Implement **animations** for extra flair 
 Make an API to generate facts in real-time (because who doesn’t love AI-generated sarcasm?)  
 
 ---
 
-### **👩🏽‍🌾 Final Thought**  
+### **Final Thought**  
 If you love this, congrats, you have great taste. If you don’t... well, at least you clicked the button.  
 
 Now go ahead, hit that button, and enjoy some **top-tier randomness about me**! 👩🏽‍🚀
