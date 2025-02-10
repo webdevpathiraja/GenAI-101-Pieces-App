@@ -47,13 +47,13 @@ This **Fun Fact Generator** serves up spicy, painfully accurate, and totally unn
 ---
 
 ## **Future Plans (Maybe... Probably Not) 🐦‍🔥**  
-🔹 Add **more fun facts** (because my life is full of them)  
-🔹 Implement **animations** for extra flair 
-🔹 Make an API to generate facts in real-time (because who doesn’t love AI-generated sarcasm?)  
+Add **more fun facts** (because my life is full of them)  
+Implement **animations** for extra flair 
+Make an API to generate facts in real-time (because who doesn’t love AI-generated sarcasm?)  
 
 ---
 
 ### **👩🏽‍🌾 Final Thought**  
-If you love this, congrats, you have great taste. If you don’t... well, at least you clicked the button. 😜  
+If you love this, congrats, you have great taste. If you don’t... well, at least you clicked the button.  
 
-Now go ahead, hit that button, and enjoy some **top-tier randomness about me**! 👩🏽‍🚀♥️
+Now go ahead, hit that button, and enjoy some **top-tier randomness about me**! 👩🏽‍🚀
