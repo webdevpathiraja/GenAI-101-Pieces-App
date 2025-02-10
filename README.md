@@ -1,10 +1,10 @@
-# Fun Fact Generator – About Me Edition 👩🏽‍🌾🫶🏽
+# 👩🏽‍🌾 Fun Fact Generator – About Me Edition 🫶🏽
 
 Ever wanted to know some *random, slightly questionable, and mildly sarcastic* facts about me? Well, now you don’t have a choice! 
 
 This **Fun Fact Generator** serves up spicy, painfully accurate, and totally unnecessary facts about *me truly*. Just click the button and let fate (aka JavaScript) decide what you learn today.  
 
-## **Features that Nobody asked for 🤺⛳**
+## **Features that nobody asked for 🤺⛳**
 ⭕ A collection of **hilariously relatable facts** about me  
 ⭕ A button that does *one job*—but does it well!  
 ⭕ A **minimalist aesthetic** because I’m classy like that  
@@ -19,14 +19,14 @@ This **Fun Fact Generator** serves up spicy, painfully accurate, and totally unn
 
 ---
 
-## **💁🏽‍♀️ How to experience my Greatness**  
+## **How to experience my Greatness**  
 1. Open `index.html` in your browser.  
 2. Click **"Generate Fun Fact"** (yes, it’s that simple).  
 3. Laugh, cry, or question your life choices as a random fact about me appears.  
 
 ---
 
-## **⭕ Get this masterpiece on your device**  
+## **🔆 Get this masterpiece on your device**  
 1. Clone this **masterpiece** from GitHub:  
    ```sh
    git clone https://github.com/webdevpathiraja/GenAI-101-Pieces-App.git
@@ -35,7 +35,7 @@ This **Fun Fact Generator** serves up spicy, painfully accurate, and totally unn
 
 ---
 
-## **Future plans (Maybe... Probably Not) 🐦‍🔥**  
+## **Future plans (Maybe... Probably Not) ⛳️**  
 Add **more fun facts** (because my life is full of them)  
 Implement **animations** for extra flair 
 Make an API to generate facts in real-time (because who doesn’t love AI-generated sarcasm?)  
